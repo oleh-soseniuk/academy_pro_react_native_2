@@ -1,0 +1,2 @@
+export const UPDATE_HISTORY = 'UPDATE_HISTORY';
+export const RESTORE_HISTORY = 'RESTORE_HISTORY';
